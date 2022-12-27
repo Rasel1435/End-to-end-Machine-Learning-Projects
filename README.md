@@ -21,3 +21,5 @@ All of the machine learning projects with source code mentioned above are based 
 
 # Summary
 So these were some of the best machine learning projects with code specially prepared for you to train you for getting your first job as a data scientist or machine learning engineer. Copying these projects might not help you, but learning how to add value to an organization with these projects will help you a lot. You can find many more data science and machine learning projects for practice from here. Hope you liked this article on machine learning projects with code. Please feel free to ask your valuable questions in the comments section below.
+
+<a href="https://thecleverprogrammer.com/2021/06/21/machine-learning-projects-with-source-code/">link</a>
