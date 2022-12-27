@@ -4,16 +4,16 @@ It is very important to work on as many machine learning projects as possible to
 
 # Machine Learning Projects with Source Code
 Below is the list of some of the best end-to-end machine learning projects with source code that you should try:
-1. Real-time Sentiment Analysis System
-2. End-to-End Fake News Detection System
-3. End-to-End Hate Speech Detection System
-4. End-to-End Spam Detection with Python
-5. End-to-End Machine Learning Model
-6. Real-time Text Emotions Detection System
-7. Spam Detection System with Python, HTML, CSS, & JavaScript
-8. Real-time Face Mask Detection System
-9. Real-time Gender Detection System
-10. Deploy a Chatbot with Python
+1. <a href="#">Real-time Sentiment Analysis System</a>
+2. <a href="#">End-to-End Fake News Detection System</a>
+3. <a href="#">End-to-End Hate Speech Detection System</a>
+4. <a href="#">End-to-End Spam Detection with Python</a>
+5. <a href="#">End-to-End Machine Learning Model</a>
+6. <a href="#">Real-time Text Emotions Detection System</a>
+7. <a href="#">Spam Detection System with Python, HTML, CSS, & JavaScript</a>
+8. <a href="#">Real-time Face Mask Detection System</a>
+9. <a href="#">Real-time Gender Detection System</a>
+10. <a href="#">Deploy a Chatbot with Python</a>
 
 All of the machine learning projects with source code mentioned above are based on an end-to-end deployment of machine learning models, as they aim to prepare you for a job. To get a job it is very important to work on machine learning projects which can help you show how you can add value to an organization. That’s why all of the machine learning projects mentioned above are explained with their end-to-end deployment.**Copying these projects might not help you, but learning how to add value to an organization with these projects will help you a lot.
 **
