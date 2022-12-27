@@ -1,1 +1,3 @@
 # End-to-end-Machine-Learning-Projects
+## Machine Learning Projects with Source Code
+It is very important to work on as many machine learning projects as possible to land your first job as a Data Scientist or Machine Learning Engineer. When you show up for your interview, you should have end-to-end machine learning projects in your resume instead of the projects you worked on purely for practice. So if you are looking for machine learning projects with source code, this article is for you. In this article, I will introduce you to some of the best machine learning projects with source code that will help you get a job easily.
