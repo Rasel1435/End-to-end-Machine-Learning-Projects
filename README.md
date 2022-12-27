@@ -14,3 +14,7 @@ Below is the list of some of the best end-to-end machine learning projects with 
 8. Real-time Face Mask Detection System
 9. Real-time Gender Detection System
 10. Deploy a Chatbot with Python
+
+All of the machine learning projects with source code mentioned above are based on an end-to-end deployment of machine learning models, as they aim to prepare you for a job. To get a job it is very important to work on machine learning projects which can help you show how you can add value to an organization. That’s why all of the machine learning projects mentioned above are explained with their end-to-end deployment.**Copying these projects might not help you, but learning how to add value to an organization with these projects will help you a lot.
+**
+The above list of machine learning projects with their code will continue to be updated with new projects. If you would like to contribute to this list of machine learning projects, please do not hesitate to contact with me. Ensure that the projects you want to contribute to the above list of machine learning projects are with end-to-end deployment.
