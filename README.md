@@ -4,7 +4,7 @@ It is very important to work on as many machine learning projects as possible to
 
 # Machine Learning Projects with Source Code
 Below is the list of some of the best end-to-end machine learning projects with source code that you should try:
-1. <a href="#">Real-time Sentiment Analysis System</a>
+1. <a href="https://github.com/Rasel1435/End-to-end-Machine-Learning-Projects/blob/main/Real-time%20Sentiment%20Analysis%20System/Streamlit.ipynb">Real-time Sentiment Analysis System</a>
 2. <a href="#">End-to-End Fake News Detection System</a>
 3. <a href="#">End-to-End Hate Speech Detection System</a>
 4. <a href="#">End-to-End Spam Detection with Python</a>
