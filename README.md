@@ -7,7 +7,7 @@ Below is the list of some of the best end-to-end machine learning projects with 
 1. <a href="https://github.com/Rasel1435/End-to-end-Machine-Learning-Projects/blob/main/Real-time%20Sentiment%20Analysis%20System/Streamlit.ipynb">Real-time Sentiment Analysis System</a>
 2. <a href="https://github.com/Rasel1435/End-to-end-Machine-Learning-Projects/blob/main/End-to-End%20Fake%20News%20Detection/Fake_News_Detection.ipynb">End-to-End Fake News Detection System</a>
 3. <a href="#">End-to-End Hate Speech Detection System</a>
-4. <a href="#">End-to-End Spam Detection with Python</a>
+4. <a href="https://github.com/Rasel1435/End-to-end-Machine-Learning-Projects/blob/main/Spam%20Detection/Spam_detection.ipynb">End-to-End Spam Detection with Python</a>
 5. <a href="#">End-to-End Machine Learning Model</a>
 6. <a href="#">Real-time Text Emotions Detection System</a>
 7. <a href="#">Spam Detection System with Python, HTML, CSS, & JavaScript</a>
