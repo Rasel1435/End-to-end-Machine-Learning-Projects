@@ -11,7 +11,7 @@ Below is the list of some of the best end-to-end machine learning projects with 
 5. <a href="https://github.com/Rasel1435/End-to-end-Machine-Learning-Projects/blob/main/End-to-End%20Machine%20Learning%20Model/End_to_End_Machine_Learning_Model.ipynb">End-to-End Machine Learning Model</a>
 6. <a href="#">Real-time Text Emotions Detection System</a>
 7. <a href="https://github.com/Rasel1435/End-to-end-Machine-Learning-Projects/tree/main/Deploy_Machine_Learning_Model_with_Python">Spam Detection System with Python, HTML, CSS, & JavaScript</a>
-8. <a href="#">Real-time Face Mask Detection System</a>
+8. <a href="https://github.com/Rasel1435/End-to-end-Machine-Learning-Projects/tree/main/Real_Time_Face_Mask_Detection_with_Python">Real-time Face Mask Detection System</a>
 9. <a href="#">Real-time Gender Detection System</a>
 10. <a href="#">Deploy a Chatbot with Python</a>
 
